@@ -1,0 +1,6 @@
+#detector-content{
+    display: flex;
+}
+#detector-content canvas{
+    position: absolute;
+}
